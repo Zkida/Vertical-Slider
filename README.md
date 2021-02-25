@@ -1,3 +1,3 @@
 # Vertical-Slider
 
-Simple vertical slider with custom post type.
+Simple WP vertical slider with custom post type.
